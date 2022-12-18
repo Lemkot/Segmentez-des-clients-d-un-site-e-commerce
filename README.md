@@ -1,9 +1,9 @@
 # Segmentez-des-clients-d-un-site-e-commerce
-### Projet-Openclassrooms
-## Parcours Data Science
+## Projet-Openclassrooms
+### Parcours Data Science
 
-### Projet 5 : "Segmentez des clients d'un site e-commerce"
-## Description du projet
+## Projet 5 : "Segmentez des clients d'un site e-commerce"
+### Description du projet
 - Mise en place d'un modèle d'apprentissage non supervisé pour réaliser une segmentation client pour un site de e commerce
 - Création d'un pipeline de nettoyage des données et d'identification des features importantes
 - Création de nouvelles features
@@ -13,7 +13,7 @@
 - Visualisation des données
 Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-## Compétences évaluées
+### Compétences évaluées
 - Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 - Évaluer les performances d’un modèle d'apprentissage non supervisé
 - Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
